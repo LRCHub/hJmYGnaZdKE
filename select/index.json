@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Set Up",
+  "base_artist": "Favored Nations",
+  "createdAt": "2026-03-08T17:54:19.629559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Set Up (feat. Havoc)",
+      "artist": "Nas feat. Havoc",
+      "has_synced": false,
+      "path": "select/01_The_Set_Up_(feat._Havoc)_Nas_feat._Havoc.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Set Up (feat. Havoc)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/02_The_Set_Up_(feat._Havoc)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Set up (Live)",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/03_The_Set_up_(Live)_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Set-Up",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/04_The_Set-Up_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Set Up (You Need This)",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/05_The_Set_Up_(You_Need_This)_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Set-Up",
+      "artist": "18 Carat Affair",
+      "has_synced": false,
+      "path": "select/06_The_Set-Up_18_Carat_Affair.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Set-Up",
+      "artist": "Danny Elfman",
+      "has_synced": false,
+      "path": "select/07_The_Set-Up_Danny_Elfman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Set-Up",
+      "artist": "Zebrahead",
+      "has_synced": false,
+      "path": "select/08_The_Set-Up_Zebrahead.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Set Up",
+      "artist": "Favored Nations",
+      "has_synced": true,
+      "path": "select/09_The_Set_Up_Favored_Nations.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Set-Up",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/10_The_Set-Up_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Set Up",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/11_The_Set_Up_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Set Up - Live",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/12_The_Set_Up_-_Live_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Set Up (You Need This) - Best Of",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/13_The_Set_Up_(You_Need_This)_-_Best_Of_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Set Up",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/14_The_Set_Up_Nas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Set Up",
+      "artist": "Nas/Havoc",
+      "has_synced": true,
+      "path": "select/15_The_Set_Up_Nas_Havoc.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Setup",
+      "artist": "Favored Nations",
+      "has_synced": false,
+      "path": "select/pl_01_The_Setup_Favored_Nations.txt"
+    }
+  ]
+}
